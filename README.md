@@ -1,3 +1,5 @@
+✴.·´¯`·.·★  🎀𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓖𝓲𝓽𝓗𝓾𝓫 𝓟𝓻𝓸𝓯𝓲𝓵𝓮🎀  ★·.·`¯´·.✴
+
 Hello, I'm Arad 👋
 
 I’m a Senior Software Engineer with 8+ years of experience building high-performance, scalable web applications. My expertise spans both frontend and backend development, enabling me to deliver cutting-edge solutions that drive innovation and business growth. From AI-driven applications to cloud infrastructure, I specialize in building robust, maintainable architectures that are built to last.
